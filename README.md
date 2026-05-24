@@ -1,4 +1,4 @@
-# Continuous Layout Editing of Single Images with Diffusion Models
+# Continuous Layout Editing of Single Images with Diffusion Models (Computer Graphics Forum, 2023)
 
 ![alt text](figures/teaser.jpg)
 
